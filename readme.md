@@ -4,7 +4,7 @@ Dead-simple language designed to store meta data of assets
 ## what is FDL
 FDL is a language used for storing meta data for assets that can be loaded up in runtime. FDL itself was designed and developed for game development in mind.
 
-# example
+## example
 ```
 # player.fdl
 
